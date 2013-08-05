@@ -1,0 +1,2 @@
+C5 Blank Theme
+	This is a blank theme for quick setup.
